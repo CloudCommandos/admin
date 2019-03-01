@@ -10,3 +10,4 @@
 | Logging & Monitoring guru | Specialise in Logging & Monitoring systems | Young Ee | Alex |
 | Ansible guru | Specialise in Ansible | Alex | John |
 | K8s guru | Specialise in kubernetes | John | Young Ee |
+| DC boss | Manage affairs in the server room | Alex | Young Ee |
